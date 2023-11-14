@@ -42,24 +42,31 @@ The Food Ordering System is designed to streamline the process of ordering food 
 
 ## Usage
 - **Login**
+  
 ![Login](https://i.imgur.com/JD5rJmp.png)
 
 - **Register**
+  
 ![Register](https://i.imgur.com/FlAuhrL.png)
 
 - **Profile**
+  
 ![Profile](https://i.imgur.com/8K3Xdl1.png)
 
 - **Menus**
+  
 ![Menus](https://i.imgur.com/K8Dac2o.png)
 
 - **ReceiptAndPrinting**
+  
 ![ReceiptAndPrinting](https://i.imgur.com/r2T6GXR.png)
 
 - **AdminPage**
+  
 ![AdminPage](https://i.imgur.com/N37VI3r.png)
 
 - **ManageProducts**
+  
 ![ManageProducts](https://i.imgur.com/BKVN7fZ.png)
 
 
