@@ -2,18 +2,11 @@
 
 The Food Ordering System is a Java Swing-based graphical user interface (GUI) application that allows users to browse a menu, select items, and place food orders. The system provides an intuitive interface for both customers and restaurant staff, facilitating a seamless ordering process.
 
-## Table of Contents
+## Technologies
 
-- [Project Title](#Online-Food-Ordering-System)
-  - [Table of Contents](#table-of-contents)
-  - [About the Project](#about-the-project)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
+**Java** - widely used object-oriented language, the core of our system
+**MySQL** - data storage solution
+
 
 ## About the Project
 
