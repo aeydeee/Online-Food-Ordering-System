@@ -8,6 +8,7 @@ The Food Ordering System is a Java Swing based graphical user interface (GUI) ap
 
 **MySQL** - data storage solution
 
+**Apache NetBeans IDE 19** - Code Compiler
 
 ## About the Project
 
