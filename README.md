@@ -5,6 +5,7 @@ The Food Ordering System is a Java Swing-based graphical user interface (GUI) ap
 ## Technologies
 
 **Java** - widely used object-oriented language, the core of our system
+
 **MySQL** - data storage solution
 
 
